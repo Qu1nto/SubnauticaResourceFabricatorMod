@@ -1,0 +1,21 @@
+{
+    "ItemID": "ArtificialCoralTable",
+    "DisplayName": "Coral Table",
+    "Tooltip": "Coral Table made from other materials",
+    "FunctionalID": "jeweleddiskpiece",
+    "SpriteItemID": "jeweleddiskpiece",    
+    "AmountCrafted": 4,
+    "LinkedItemIDs": "jeweleddiskpiece",
+    "ForceUnlockAtStart": true,
+    "Ingredients": [
+        {
+            "ItemID": "acidmushroom",
+            "Required": 2
+        },
+		{
+            "ItemID": "salt",
+            "Required": 2
+        }
+    ],
+    "Path": "Fabricator/Ores"
+}
