@@ -28,4 +28,5 @@ Recipes for each resource are defined in the `assets/recipes` directory. You can
 - Inspired by the Subnautica community and modding resources.
 
 ## Notes
-For Items IDs you can check [This webpage](https://subnautica.fandom.com/wiki/Spawn_IDs_(Subnautica))
+- [GitHub repository](https://github.com/Qu1nto/SubnauticaResourceFabricatorMod)
+- For Items IDs you can check [This webpage](https://subnautica.fandom.com/wiki/Spawn_IDs_(Subnautica))

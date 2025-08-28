@@ -246,6 +246,9 @@ public class ResourceFabricatorMod : BaseUnityPlugin
                 return TechType.Spinefish;
             case "spadefish":
                 return TechType.Spadefish;
+            case "ingot":
+            case "titaniumingot":
+                return TechType.TitaniumIngot;
             case "metal":
             case "scrapmetal":
                 return TechType.ScrapMetal;

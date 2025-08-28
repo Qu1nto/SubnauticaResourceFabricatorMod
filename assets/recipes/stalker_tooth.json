@@ -1,0 +1,21 @@
+{
+    "ItemID": "ArtificialStalkerTooth",
+    "DisplayName": "Stalker Tooth",
+    "Tooltip": "Stalker Tooth made from other materials",
+    "FunctionalID": "stalkertooth",
+    "SpriteItemID": "stalkertooth",    
+    "AmountCrafted": 4,
+    "LinkedItemIDs": "stalkertooth",
+    "ForceUnlockAtStart": true,
+    "Ingredients": [
+        {
+            "ItemID": "nickel",
+            "Required": 1
+        },
+		{
+            "ItemID": "salt",
+            "Required": 2
+        }
+    ],
+    "Path": "Fabricator/Ores"
+}

@@ -1,0 +1,17 @@
+{
+    "ItemID": "TitaniumIngotFromScrapMetal",
+    "DisplayName": "Titanium Ingot",
+    "Tooltip": "Titanium Ingot made from Scrap Metal",
+    "FunctionalID": "titaniumingot",
+    "SpriteItemID": "titaniumingot",
+    "AmountCrafted": 1,
+    "LinkedItemIDs": "titaniumingot",
+    "ForceUnlockAtStart": true,
+    "Ingredients": [
+        {
+            "ItemID": "scrapmetal",
+            "Required": 1
+        }
+    ],
+    "Path": "Fabricator/Ores"
+}
