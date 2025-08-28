@@ -252,6 +252,7 @@ public class ResourceFabricatorMod : BaseUnityPlugin
             case "metal":
             case "scrapmetal":
                 return TechType.ScrapMetal;
+            case "jeweleddiskpiece":
             case "tablecoral":
             case "coraltable":
             case "coral":
