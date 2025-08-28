@@ -1,0 +1,17 @@
+{
+    "ItemID": "PeeperTitanium",
+    "DisplayName": "Titanium",
+    "Tooltip": "A strong metal used for crafting and building.",
+    "FunctionalID": "Titanium",
+    "SpriteItemID": "Titanium",    
+    "AmountCrafted": 1,
+    "LinkedItemIDs": "Titanium",
+    "ForceUnlockAtStart": true,
+    "Ingredients": [
+        {
+            "ItemID": "Boomerang",
+            "Required": 2
+        }
+    ],
+    "Path": "Fabricator/Ores"
+}

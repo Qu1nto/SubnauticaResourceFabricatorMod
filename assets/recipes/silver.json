@@ -1,0 +1,17 @@
+{
+    "ItemID": "SpadefishSilver",
+    "DisplayName": "Silver",
+    "Tooltip": "Silver extracted from the organs of a spadefish",
+    "FunctionalID": "Silver",
+    "SpriteItemID": "Silver",
+    "AmountCrafted": 1,
+    "LinkedItemIDs": "Silver",
+    "ForceUnlockAtStart": true,
+    "Ingredients": [
+        {
+            "ItemID": "spadefish",
+            "Required": 2
+        }
+    ],
+    "Path": "Fabricator/Ores"
+}

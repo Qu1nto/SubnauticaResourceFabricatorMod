@@ -1,0 +1,17 @@
+{
+    "ItemID": "HoopFishLead",
+    "DisplayName": "Lead",
+    "Tooltip": "Lead extracted from the organs of a hoopfish",
+    "FunctionalID": "Lead",
+    "SpriteItemID": "Lead",    
+    "AmountCrafted": 1,
+    "LinkedItemIDs": "Lead",
+    "ForceUnlockAtStart": true,
+    "Ingredients": [
+        {
+            "ItemID": "HoopFish",
+            "Required": 3
+        }
+    ],
+    "Path": "Fabricator/Ores"
+}

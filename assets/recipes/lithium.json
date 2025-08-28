@@ -1,0 +1,17 @@
+{
+    "ItemID": "OculusLithium",
+    "DisplayName": "Lithium",
+    "Tooltip": "Lithium extracted from the organs of an oculus",
+    "FunctionalID": "Lithium",
+    "SpriteItemID": "Lithium",
+    "AmountCrafted": 1,
+    "LinkedItemIDs": "Lithium",
+    "ForceUnlockAtStart": true,
+    "Ingredients": [
+        {
+            "ItemID": "Oculus",
+            "Required": 2
+        }
+    ],
+    "Path": "Fabricator/Ores"
+}

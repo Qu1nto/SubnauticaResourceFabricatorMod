@@ -1,0 +1,17 @@
+{
+    "ItemID": "ReginaldDiamond",
+    "DisplayName": "Diamond",
+    "Tooltip": "Diamond extracted from the organs of a reginald",
+    "FunctionalID": "Diamond",
+    "SpriteItemID": "Diamond",    
+    "AmountCrafted": 1,
+    "LinkedItemIDs": "Diamond",
+    "ForceUnlockAtStart": true,
+    "Ingredients": [
+        {
+            "ItemID": "reginald",
+            "Required": 3
+        }
+    ],
+    "Path": "Fabricator/Ores"
+}

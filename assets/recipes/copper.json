@@ -1,0 +1,17 @@
+{
+    "ItemID": "BladderfishCopper",
+    "DisplayName": "Copper",
+    "Tooltip": "Copper extracted from the organs of a bladderfish",
+    "FunctionalID": "Copper",
+    "SpriteItemID": "Copper",    
+    "AmountCrafted": 1,
+    "LinkedItemIDs": "Copper",
+    "ForceUnlockAtStart": true,
+    "Ingredients": [
+        {
+            "ItemID": "bladderfish",
+            "Required": 2
+        }
+    ],
+    "Path": "Fabricator/Ores"
+}

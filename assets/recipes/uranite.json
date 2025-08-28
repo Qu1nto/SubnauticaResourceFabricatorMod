@@ -1,0 +1,18 @@
+{
+    "ItemID": "OculusUraninite",
+    "DisplayName": "Uraninite",
+    "Tooltip": "Uraninite Crystal extracted from the organs of a Oculus",
+    "FunctionalID": "UraniniteCrystal",
+    "SpriteItemID": "UraniniteCrystal",
+    
+    "AmountCrafted": 1,
+    "LinkedItemIDs": "UraniniteCrystal",
+    "ForceUnlockAtStart": true,
+    "Ingredients": [
+        {
+            "ItemID": "oculus",
+            "Required": 4
+        }
+    ],
+    "Path": "Fabricator/Ores"
+}

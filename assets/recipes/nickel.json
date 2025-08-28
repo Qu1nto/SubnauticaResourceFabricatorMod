@@ -1,0 +1,17 @@
+{
+    "ItemID": "GarryfishNickel",
+    "DisplayName": "Nickel",
+    "Tooltip": "Nickel extracted from the organs of a Garryfish",
+    "FunctionalID": "Nickel",
+    "SpriteItemID": "Nickel",    
+    "AmountCrafted": 1,
+    "LinkedItemIDs": "Nickel",
+    "ForceUnlockAtStart": true,
+    "Ingredients": [
+        {
+            "ItemID": "Garryfish",
+            "Required": 3
+        }
+    ],
+    "Path": "Fabricator/Ores"
+}

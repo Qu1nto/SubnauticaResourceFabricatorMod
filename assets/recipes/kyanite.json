@@ -1,0 +1,17 @@
+{
+    "ItemID": "ReginaldKyanite",
+    "DisplayName": "Kyanite",
+    "Tooltip": "Kyanite Crystal extracted from the organs of a Reginald",
+    "FunctionalID": "Kyanite",
+    "SpriteItemID": "Kyanite",    
+    "AmountCrafted": 1,
+    "LinkedItemIDs": "Kyanite",
+    "ForceUnlockAtStart": true,
+    "Ingredients": [
+        {
+            "ItemID": "reginald",
+            "Required": 6
+        }
+    ],
+    "Path": "Fabricator/Ores"
+}

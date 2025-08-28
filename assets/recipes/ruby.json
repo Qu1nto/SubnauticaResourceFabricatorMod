@@ -1,0 +1,17 @@
+{
+    "ItemID": "SpinefishRuby",
+    "DisplayName": "Ruby",
+    "Tooltip": "Ruby Crystal extracted from the organs of a Spinefish",
+    "FunctionalID": "AluminumOxide",
+    "SpriteItemID": "AluminumOxide",    
+    "AmountCrafted": 1,
+    "LinkedItemIDs": "AluminumOxide",
+    "ForceUnlockAtStart": true,
+    "Ingredients": [
+        {
+            "ItemID": "spinefish",
+            "Required": 4
+        }
+    ],
+    "Path": "Fabricator/Ores"
+}

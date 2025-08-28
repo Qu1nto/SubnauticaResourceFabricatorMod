@@ -1,0 +1,17 @@
+{
+    "ItemID": "EyeyeMagnetite",
+    "DisplayName": "Magnetite",
+    "Tooltip": "Magnetite extracted from the organs of an eyeye",
+    "FunctionalID": "Magnetite",
+    "SpriteItemID": "Magnetite",    
+    "AmountCrafted": 1,
+    "LinkedItemIDs": "Magnetite",
+    "ForceUnlockAtStart": true,
+    "Ingredients": [
+        {
+            "ItemID": "eyeye",
+            "Required": 3
+        }
+    ],
+    "Path": "Fabricator/Ores"
+}

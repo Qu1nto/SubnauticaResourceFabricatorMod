@@ -1,0 +1,17 @@
+{
+    "ItemID": "SpinefishSulfur",
+    "DisplayName": "Sulfur",
+    "Tooltip": "Sulfur Crystal extracted from the organs of a SpineFish",
+    "FunctionalID": "Sulphur",
+    "SpriteItemID": "Sulphur",    
+    "AmountCrafted": 1,
+    "LinkedItemIDs": "Sulphur",
+    "ForceUnlockAtStart": true,
+    "Ingredients": [
+        {
+            "ItemID": "spinefish",
+            "Required": 2
+        }
+    ],
+    "Path": "Fabricator/Ores"
+}

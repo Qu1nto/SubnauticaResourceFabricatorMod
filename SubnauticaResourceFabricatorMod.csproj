@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net472</TargetFramework>
+        <AssemblyName>SubnauticaResourceFabricatorMod</AssemblyName>
+        <RootNamespace>SubnauticaResourceFabricatorMod</RootNamespace>
+        <OutputType>Library</OutputType>
+    </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    </ItemGroup>
+    <ItemGroup>
+        <Reference Include="Assembly-CSharp-firstpass">
+          <HintPath>lib\Assembly-CSharp-firstpass.dll</HintPath>
+        </Reference>
+        <Reference Include="BepInEx">
+            <HintPath>.\lib\BepInEx.dll</HintPath>
+        </Reference>
+        <Reference Include="Assembly-CSharp">
+            <HintPath>.\lib\Assembly-CSharp.dll</HintPath>
+        </Reference>
+        <Reference Include="UnityEngine">
+            <HintPath>.\lib\UnityEngine.dll</HintPath>
+        </Reference>
+        <Reference Include="UnityEngineCore">
+            <HintPath>.\lib\UnityEngine.CoreModule.dll</HintPath>
+        </Reference>
+    </ItemGroup>
+    <ItemGroup>
+        <Reference Include="Nautilus">
+            <HintPath>.\lib\Nautilus.dll</HintPath>
+        </Reference>
+        <Reference Include="Unity.Addressables">
+            <HintPath>.\lib\Unity.Addressables.dll</HintPath>
+        </Reference>
+    </ItemGroup>
+</Project>

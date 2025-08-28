@@ -1,0 +1,17 @@
+{
+    "ItemID": "HoverFishGold",
+    "DisplayName": "Gold",
+    "Tooltip": "Gold extracted from the organs of a hoverfish",
+    "FunctionalID": "Gold",
+    "SpriteItemID": "Gold",    
+    "AmountCrafted": 1,
+    "LinkedItemIDs": "Gold",
+    "ForceUnlockAtStart": true,
+    "Ingredients": [
+        {
+            "ItemID": "hoverfish",
+            "Required": 3
+        }
+    ],
+    "Path": "Fabricator/Ores"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Subnautica Resource Fabricator Mod",
+    "version": "1.0.0",
+    "author": "YourName",
+    "description": "A mod that adds a new tab in the generic fabricator for generating resources like titanium, copper, gold, and silver.",
+    "dependencies": {
+        "BepInEx": "5.4.0"
+    },
+    "entryPoint": "SubnauticaResourceFabricatorMod.ResourceFabricatorMod",
+    "loadPriority": 0
+}

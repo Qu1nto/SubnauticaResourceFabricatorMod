@@ -1,0 +1,17 @@
+{
+    "ItemID": "BoomerangQuartz",
+    "DisplayName": "Quartz",
+    "Tooltip": "Quartz extracted from the organs of a Boomerang.",
+    "FunctionalID": "Quartz",
+    "SpriteItemID": "Quartz",
+    "AmountCrafted": 1,
+    "LinkedItemIDs": "Quartz",
+    "ForceUnlockAtStart": true,
+    "Ingredients": [
+        {
+            "ItemID": "Boomerang",
+            "Required": 2
+        }
+    ],
+    "Path": "Fabricator/Ores"
+}
